@@ -1,0 +1,56 @@
+html body {
+    color: #444;
+    font-family: 'Roboto', sans-serif;
+    font-size: 1em;
+    font-weight: 400;
+}
+
+.navbar-brand {
+    font-weight: 500;
+}
+
+.btn-primary,
+.btn-primary:hover,
+.btn-primary:focus {
+    background: #4937E8 !important;
+    border-color: #4937E8 !important;
+    border-radius: 0;
+    font-weight: 500;
+    outline: none !important;
+}
+
+.bg-primary {
+    background: #4937E8 !important;
+    color: #fff;
+}
+
+.bg-dark {
+    background: #000 !important;
+}
+
+.faqs,
+.intro,
+.showcase {
+    padding: 89px 0
+}
+
+h1 {
+    font-weight: 500;
+}
+
+h2 {
+    color: #888;
+    font-weight: 300;
+    font-size: 1.4em;
+    line-height: 1.3em;
+}
+
+h3 {
+    font-size: 1.5em;
+    line-height: 1.4em;
+}
+
+h4 {
+    font-size: 1.4em;
+    margin-bottom: 11px;
+}
