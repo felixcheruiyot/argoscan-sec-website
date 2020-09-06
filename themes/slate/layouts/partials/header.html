@@ -10,7 +10,7 @@
             <ul class="navbar-nav ml-auto">
                 {{ range .Site.Menus.main }}
                 <li class="nav-item">
-                    <a class="nav-link" href="{{ .URL }}">
+                    <a class="nav-link pr-4" href="{{ .URL }}">
                         {{ $text := print .Name | safeHTML }}
                         {{ $text }}
                     </a>

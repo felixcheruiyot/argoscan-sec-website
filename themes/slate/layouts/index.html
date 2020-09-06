@@ -4,12 +4,11 @@
         <div class="row">
             <div class="col-12 col-lg-6">
                 <h1>Deployment and security simplified for startups.</h1>
-                <h2 class="my-4">Create and automate deployment from well tested and proven images to implement security
+                <h2 class="my-4 text-secondary">Create and automate deployment from well tested and proven images to
+                    implement security
                     and efficiency of your application.</h2>
                 <div class="cta">
-                    <a href="https://felixcheruiyot.typeform.com/to/G6GHSgFb" class="btn btn-primary my-2 my-sm-0">
-                        Get your API Key
-                    </a>
+                    {{- partial "cta-button.html" . -}}
                 </div>
             </div>
         </div>
@@ -27,8 +26,8 @@
                 </div>
             </div>
             <div class="col-lg-6 col-12">
-                <h2>What is DevsZero?</h2>
-                <p>
+                <h3>What is DevsZero?</h3>
+                <p class="text-secondary">
                     Almost every startup when it launches, we go with the basic configurations and with the MVP
                     mentality to ship faster.
                     This is a proven method that works for startups to launch faster and start learning from their
@@ -37,7 +36,7 @@
                     integrate with an enterprise API that requires
                     you to implement certain security standards like encryptions, VPN setups etc.
                 </p>
-                <p>
+                <p class="text-secondary">
                     For a startup with limited resource i.e devOps manpower, time, and money, this can be overwhelming.
                     DevsZero enables you to create this standards and
                     easily meet compliance requirements by easily copying and customizing available security standards
@@ -53,8 +52,9 @@
 <div class="section usecases">
     <div class="container">
         <div class="header text-center mb-4">
-            <h2>Automation for everyone</h2>
-            <div>Cloud deployment compliance available in a simple, automated, plug-n-play APIs. </div>
+            <h3>Automation for everyone</h3>
+            <div class="text-secondary">Cloud deployment compliance available in a simple, automated, plug-n-play APIs.
+            </div>
         </div>
         <div class="row">
             <div class="col-12 col-lg-4 my-4">
@@ -99,13 +99,36 @@
                     platforms is on the way, and anyone can add new platforms via plugins.
                 </p>
             </div>
-            <div class="col-lg-6 col-12"></div>
+            <div class="col-lg-6 col-12">
+                <div class="row">
+                    <div class="col-lg-4 col-12 mb-4 flex">
+                        <img src="img/digitalocean.svg" class="img-fluid" alt="D.O">
+                    </div>
+                    <div class="col-lg-4 col-12 mb-4 flex">
+                        <img src="img/aws.svg" class="img-fluid" alt="AWS">
+                    </div>
+                    <div class="col-lg-4 col-12 mb-4 flex">
+                        <img src="img/docker.svg" class="img-fluid" alt="Docker">
+                    </div>
+                    <div class="col-lg-4 col-12 mb-4 flex">
+                        <img src="img/google-cloud.svg" class="img-fluid" alt="Google Cloud">
+                    </div>
+                    <div class="col-lg-4 col-12 mb-4 flex">
+                        <img src="img/vmware.svg" class="img-fluid" alt="VMWare">
+                    </div>
+                    <div class="col-lg-4 col-12 mb-4 flex">
+                        <img src="img/azure.svg" class="img-fluid" alt="Azure">
+                    </div>
+                </div>
+            </div>
         </div>
     </div>
 </div>
 
-<!-- Testimonial -->
-
+<!-- FAQs -->
+<!-- Are we building a marketplace of images -->
+<!-- Why use this and not pre-built images from cloud providers -->
+<!-- How secure is my authentication keys -->
 <!-- Proof -->
 <div class="proof section">
     <div class="container">
@@ -117,8 +140,11 @@
                 <span>50+</span> startups
             </div>
             <div class="col-12 col-lg-4 text-center my-4">
-                <span>7+</span> years of deployment experience
+                <span>8+</span> years of devOps
             </div>
+        </div>
+        <div class="cta my-4 text-center">
+            {{- partial "cta-button.html" . -}}
         </div>
     </div>
 </div>

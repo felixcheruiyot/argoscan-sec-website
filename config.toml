@@ -6,8 +6,8 @@ publishDir = "docs"
 
 [menu]
   [[menu.main]]
-    name = "Templates"
-    url = "/templates/"
+    name = "Images"
+    url = "https://console.devszero.com/images/"
     weight = 1
   [[menu.main]]
     name = "Usecases"
@@ -23,5 +23,5 @@ publishDir = "docs"
     weight = 4
   [[menu.main]]
     name = "Get started"
-    url = "/get-started/"
+    url = "https://console.devszero.com/signup/"
     weight = 5
