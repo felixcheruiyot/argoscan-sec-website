@@ -1,22 +1,27 @@
 baseURL = "https://devszero.com/"
 languageCode = "en-us"
-title = "DevsZero - Frontend framework for RESTFul APIs."
+title = "DevsZero - Deployment and security simplified for startups."
 theme = "slate"
 publishDir = "docs"
 
 [menu]
   [[menu.main]]
-    name = "Home"
-    pre = "home"
-    url = "/"
+    name = "Templates"
+    url = "/templates/"
     weight = 1
   [[menu.main]]
-    name = "Posts"
-    pre = "pen-tool"
-    url = "/posts/"
+    name = "Usecases"
+    url = "/usecases/"
     weight = 2
   [[menu.main]]
-    name = "Tags"
-    pre = "tag"
-    url = "/tags/"
+    name = "About"
+    url = "/about/"
     weight = 3
+  [[menu.main]]
+    name = "Blog"
+    url = "/blog/"
+    weight = 4
+  [[menu.main]]
+    name = "Get started"
+    url = "/get-started/"
+    weight = 5

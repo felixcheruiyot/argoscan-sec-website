@@ -1,8 +1,7 @@
 ---
-title: "Why Devzero"
+title: "Why DEVSZERO"
 date: 2020-09-06T08:45:42+03:00
 draft: false
-tags: ["foo", "bar"]
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 

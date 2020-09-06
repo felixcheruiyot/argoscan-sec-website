@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>DevsZero - Deployment and security simplified for startups.</title>
-    <link>https://devszero.com/</link>
-    <description>Recent content on DevsZero - Deployment and security simplified for startups.</description>
+    <title>Blogs on DevsZero - Deployment and security simplified for startups.</title>
+    <link>https://devszero.com/blog/</link>
+    <description>Recent content in Blogs on DevsZero - Deployment and security simplified for startups.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 06 Sep 2020 08:45:42 +0300</lastBuildDate>
     
-	<atom:link href="https://devszero.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://devszero.com/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>

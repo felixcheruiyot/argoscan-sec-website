@@ -1,4 +1,4 @@
-<!-- <nav class="navbar navbar-expand-lg navbar-light">
+<nav class="navbar navbar-expand-lg navbar-light">
     <div class="container">
         <a class="navbar-brand" href="/">DevsZero</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
@@ -7,26 +7,16 @@
         </button>
 
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
-            <div class="navbar-nav ml-auto">
-                <form class="form-inline my-2 my-lg-0">
-                    <a href="https://felixcheruiyot.typeform.com/to/G6GHSgFb" class="btn btn-primary my-2 my-sm-0">Join Waitlist</a>
-                </form>
-            </div>
+            <ul class="navbar-nav ml-auto">
+                {{ range .Site.Menus.main }}
+                <li class="nav-item">
+                    <a class="nav-link" href="{{ .URL }}">
+                        {{ $text := print .Name | safeHTML }}
+                        {{ $text }}
+                    </a>
+                </li>
+                {{ end }}
+            </ul>
         </div>
     </div>
-</nav> -->
-
-<div id="nav-border" class="container">
-    <nav id="nav" class="nav justify-content-center">
-        {{ range .Site.Menus.main }}
-        <a class="nav-link" href="{{ .URL }}">
-        {{ if .Pre }}
-        {{ $icon := printf "<i data-feather=\"%s\"></i> " .Pre | safeHTML }}
-        {{ $icon }}
-        {{ end }}
-        {{ $text := print .Name | safeHTML }}
-        {{ $text }}
-        </a>
-        {{ end }}
-    </nav>
-</div>
+</nav>
