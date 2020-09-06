@@ -1,12 +1,31 @@
 html body {
     color: #444;
     font-family: 'Roboto', sans-serif;
-    font-size: 1.2em;
+    font-size: 1rem;
     font-weight: 400;
+}
+
+body {
+    margin-top: 54px;
+}
+
+.shadow {
+    box-shadow: 0 1px 3px 0 rgba(0, 0, 0, .1), 0 1px 2px 0 rgba(0, 0, 0, .06);
 }
 
 .navbar-brand {
     font-weight: 500;
+}
+
+.navbar-brand .logo {
+    height: 21px;
+}
+.nav-link {
+    padding: 1rem;
+}
+
+a {
+    text-decoration: none !important;
 }
 
 .btn-primary,
@@ -14,7 +33,6 @@ html body {
 .btn-primary:focus {
     background: #4937E8 !important;
     border-color: #4937E8 !important;
-    border-radius: 0;
     font-weight: 500;
     outline: none !important;
 }
@@ -28,8 +46,7 @@ html body {
     background: #000 !important;
 }
 
-.intro,
-.showcase {
+.section {
     padding: 89px 0
 }
 
@@ -38,18 +55,37 @@ h1 {
 }
 
 h2 {
-    color: #888;
-    font-weight: 300;
+    font-weight: 400;
     font-size: 1.4em;
     line-height: 1.3em;
 }
 
 h3 {
-    font-size: 1.5em;
+    font-size: 1.7em;
     line-height: 1.4em;
 }
 
 h4 {
     font-size: 1.4em;
     margin-bottom: 11px;
+}
+
+.integrations img {
+    height: 54px;
+    flex: 1;
+    align-self: center;
+}
+
+.proof .items {
+    display: flex;
+    align-content: center;
+}
+
+.proof .text {
+    text-transform: uppercase;
+    font-size: 1.2rem;
+}
+
+.proof .numbers {
+    font-size: 3rem;
 }

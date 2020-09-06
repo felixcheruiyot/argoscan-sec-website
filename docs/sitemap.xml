@@ -3,8 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://devszero.com/usecases/saas-automation/</loc>
+    <lastmod>2020-09-06T09:58:34+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://devszero.com/get-started/</loc>
+    <lastmod>2020-09-06T09:57:48+03:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://devszero.com/blog/why-devzero/</loc>
     <lastmod>2020-09-06T08:45:42+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://devszero.com/about/</loc>
   </url>
   
   <url>
@@ -20,12 +34,18 @@
   
   <url>
     <loc>https://devszero.com/</loc>
-    <lastmod>2020-09-06T08:45:42+03:00</lastmod>
+    <lastmod>2020-09-06T09:58:34+03:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://devszero.com/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://devszero.com/usecases/</loc>
+    <lastmod>2020-09-06T09:58:34+03:00</lastmod>
     <priority>0</priority>
   </url>
   

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Usecases on DevsZero - Deployment and security simplified for startups.</title>
+    <link>https://devszero.com/usecases/</link>
+    <description>Recent content in Usecases on DevsZero - Deployment and security simplified for startups.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 06 Sep 2020 09:58:34 +0300</lastBuildDate>
+    
+	<atom:link href="https://devszero.com/usecases/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Saas Automation</title>
+      <link>https://devszero.com/usecases/saas-automation/</link>
+      <pubDate>Sun, 06 Sep 2020 09:58:34 +0300</pubDate>
+      
+      <guid>https://devszero.com/usecases/saas-automation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

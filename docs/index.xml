@@ -6,10 +6,28 @@
     <description>Recent content on DevsZero - Deployment and security simplified for startups.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 06 Sep 2020 08:45:42 +0300</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2020 09:58:34 +0300</lastBuildDate>
     
 	<atom:link href="https://devszero.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Saas Automation</title>
+      <link>https://devszero.com/usecases/saas-automation/</link>
+      <pubDate>Sun, 06 Sep 2020 09:58:34 +0300</pubDate>
+      
+      <guid>https://devszero.com/usecases/saas-automation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Get Started</title>
+      <link>https://devszero.com/get-started/</link>
+      <pubDate>Sun, 06 Sep 2020 09:57:48 +0300</pubDate>
+      
+      <guid>https://devszero.com/get-started/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Why DEVSZERO</title>
@@ -27,6 +45,17 @@ ante in nibh mauris cursus. Morbi quis commodo odio aenean. Mollis nunc sed id
 semper risus in hendrerit gravida rutrum.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://devszero.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devszero.com/about/</guid>
+      <description>HashiCorp was founded by Mitchell Hashimoto and Armon Dadgar in 2012 with the goal of revolutionizing datacenter management: application development, delivery, and maintenance.
+The datacenter of today is very different than the datacenter of yesterday, and we think the datacenter of tomorrow is just around the corner. We&amp;rsquo;re writing software to take you all the way from yesterday to today, and then safely to tomorrow and beyond.
+Physical, virtual, containers. Private cloud, public cloud, hybrid cloud.</description>
     </item>
     
   </channel>
