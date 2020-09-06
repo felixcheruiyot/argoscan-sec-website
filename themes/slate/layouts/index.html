@@ -1,110 +1,17 @@
-<!doctype html>
-<html lang="en">
-
-<head>
-    <!-- Required meta tags -->
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <title>{{ .Site.Title }}</title>
-
-    <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
-        integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500|Material+Icons">
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css"
-        integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
-    <link rel="stylesheet" href="css/style.css">
-</head>
-
-<body>
-    {{ partial "header.html" . }}
-    <div class="intro">
-        <div class="container">
-            <div class="row">
-                <div class="col-12 col-lg-8 offset-lg-2 text-center">
-                    <h1>Action contracts and SLA's without dramas.</h1>
-                    <h2 class="my-4">Create and manage contract with your IT service providers in a more transparent and
-                        efficient manner.
-                    </h2>
-                    <div class="cta">
-                        <a href="https://felixcheruiyot.typeform.com/to/G6GHSgFb"
-                            class="btn btn-primary my-2 my-sm-0">Join the waitlist</a>
-                    </div>
+{{ define "main" }}
+<div class="intro">
+    <div class="container">
+        <div class="row">
+            <div class="col-12 col-lg-8 offset-lg-2 text-center">
+                <h1>Deploment and security simplified for startups.</h1>
+                <h2 class="my-4">Design your deployment from a graphical interface, implement security and automate
+                    services.</h2>
+                <div class="cta">
+                    <a href="https://felixcheruiyot.typeform.com/to/G6GHSgFb" class="btn btn-primary my-2 my-sm-0">Get
+                        started</a>
                 </div>
             </div>
         </div>
     </div>
-
-    <div class="emphasize py-4 text-center bg-primary">
-        <div class="container">
-            <h3>
-                Over 40% of projects fail because of wrong contracts and planning.<br />Do it differently!
-            </h3>
-        </div>
-    </div>
-
-    <div class="showcase">
-        <div class="container">
-            <h1 class="text-center mb-4">Save time and money by doing it right</h1>
-            <div class="section-1">
-                <div class="row">
-                    <div class="col-12 col-lg-6 mb-4">
-                        <h3>For business</h3>
-                        <p>It doesn't end at finding the right candidate. Create a collaborative contract and framework
-                            for a higher success rate.</p>
-                        <ul class="list-unstyled">
-                            <li><i class="fa fa-chevron-right"></i> Manage multiple contracts from a single platforms -
-                                no more emails and paperwork.</li>
-                            <li><i class="fa fa-chevron-right"></i> Easily create a contract and clearly define your
-                                requirements.</li>
-                            <li><i class="fa fa-chevron-right"></i> Precisely track what has been accomplished and tick
-                                off.</li>
-                            <li><i class="fa fa-chevron-right"></i> Reduce loss by getting rid of untracked SLAs and
-                                contracts not well executed.</li>
-                            <li><i class="fa fa-chevron-right"></i> Reduce disputes by properly tracking progress and
-                                enhancing communication.</li>
-                        </ul>
-                    </div>
-                    <div class="col-12 col-lg-6">
-                        <h3>For developers and vendors</h3>
-                        <p>Start off a new project or investment with the right requirements. Right requirements are
-                            ones that are well communicated, clear timelines, and expectations. No suprises! </p>
-                        <ul class="list-unstyled">
-                            <li><i class="fa fa-chevron-right"></i> Understand contracts and easily sign where needed
-                            </li>
-                            <li><i class="fa fa-chevron-right"></i> Provide proof of work done and completed SLA - make
-                                payment easy and less dispute.
-                            </li>
-                            <li><i class="fa fa-chevron-right"></i> Precisely track what has been accomplished and tick
-                                off.</li>
-                            <li><i class="fa fa-chevron-right"></i> Securely protect and disclose your innovations and
-                                reduce disputes.</li>
-                            <li><i class="fa fa-chevron-right"></i> Close contracts faster.</li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-
-    <div class="mb-4">
-        <div class="container">
-            <div class="cta text-center">
-                <a href="https://felixcheruiyot.typeform.com/to/G6GHSgFb" class="btn btn-primary my-2 my-sm-0">Join the
-                    waitlist</a>
-            </div>
-        </div>
-    </div>
-    {{ partial "footer.html" . }}
-    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
-        integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous">
-    </script>
-    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"
-        integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous">
-    </script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"
-        integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous">
-    </script>
-</body>
-
-</html>
+</div>
+{{ end }}
