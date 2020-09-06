@@ -17,6 +17,9 @@ body {
     font-weight: 500;
 }
 
+.navbar-brand .logo {
+    height: 21px;
+}
 .nav-link {
     padding: 1rem;
 }
