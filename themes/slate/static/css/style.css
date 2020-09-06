@@ -14,7 +14,6 @@ html body {
 .btn-primary:focus {
     background: #4937E8 !important;
     border-color: #4937E8 !important;
-    border-radius: 0;
     font-weight: 500;
     outline: none !important;
 }
@@ -28,8 +27,7 @@ html body {
     background: #000 !important;
 }
 
-.intro,
-.showcase {
+.section {
     padding: 89px 0
 }
 
