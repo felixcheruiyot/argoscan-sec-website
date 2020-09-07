@@ -5,23 +5,23 @@ theme = "slate"
 publishDir = "docs"
 
 [menu]
+  #[[menu.main]]
+  #  name = "Products"
+  #  url = "/products/"
+  #  weight = 1
+  #[[menu.main]]
+  #  name = "Pricing"
+  #  url = "/pricing/"
+  #  weight = 2
+  #[[menu.main]]
+  #  name = "About"
+  #  url = "/about/"
+  #  weight = 3
+  #[[menu.main]]
+  #  name = "Demo"
+  #  url = "https://felixcheruiyot.typeform.com/to/G6GHSgFb"
+  #  weight = 4
   [[menu.main]]
-    name = "Products"
-    url = "/products/"
-    weight = 1
-  [[menu.main]]
-    name = "Pricing"
-    url = "/pricing/"
-    weight = 2
-  [[menu.main]]
-    name = "About"
-    url = "/about/"
-    weight = 3
-  [[menu.main]]
-    name = "Demo"
-    url = "https://console.devszero.com/demo/"
-    weight = 4
-  [[menu.main]]
-    name = "Get started"
-    url = "https://console.devszero.com/signup/"
+    name = "Get beta access"
+    url = "https://felixcheruiyot.typeform.com/to/G6GHSgFb"
     weight = 5
