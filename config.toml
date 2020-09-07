@@ -1,25 +1,25 @@
 baseURL = "https://devszero.com/"
 languageCode = "en-us"
-title = "DevsZero - Deployment and security simplified for startups."
+title = "DevsZero - Security simplified for startups."
 theme = "slate"
 publishDir = "docs"
 
 [menu]
   [[menu.main]]
-    name = "Images"
-    url = "https://console.devszero.com/images/"
+    name = "Products"
+    url = "/products/"
     weight = 1
   [[menu.main]]
-    name = "Usecases"
-    url = "/usecases/"
+    name = "Pricing"
+    url = "/pricing/"
     weight = 2
   [[menu.main]]
     name = "About"
     url = "/about/"
     weight = 3
   [[menu.main]]
-    name = "Blog"
-    url = "/blog/"
+    name = "Demo"
+    url = "https://console.devszero.com/demo/"
     weight = 4
   [[menu.main]]
     name = "Get started"

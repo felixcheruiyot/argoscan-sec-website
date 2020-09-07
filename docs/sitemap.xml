@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://devszero.com/usecases/saas-automation/</loc>
+    <loc>https://devszero.com/products/status-pages/</loc>
     <lastmod>2020-09-06T09:58:34+03:00</lastmod>
   </url>
   
@@ -39,13 +39,13 @@
   </url>
   
   <url>
-    <loc>https://devszero.com/tags/</loc>
+    <loc>https://devszero.com/products/</loc>
+    <lastmod>2020-09-06T09:58:34+03:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://devszero.com/usecases/</loc>
-    <lastmod>2020-09-06T09:58:34+03:00</lastmod>
+    <loc>https://devszero.com/tags/</loc>
     <priority>0</priority>
   </url>
   

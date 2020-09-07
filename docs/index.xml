@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>DevsZero - Deployment and security simplified for startups.</title>
+    <title>DevsZero - Security simplified for startups.</title>
     <link>https://devszero.com/</link>
-    <description>Recent content on DevsZero - Deployment and security simplified for startups.</description>
+    <description>Recent content on DevsZero - Security simplified for startups.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 06 Sep 2020 09:58:34 +0300</lastBuildDate>
@@ -12,11 +12,11 @@
     
     
     <item>
-      <title>Saas Automation</title>
-      <link>https://devszero.com/usecases/saas-automation/</link>
+      <title>Security Status Pages</title>
+      <link>https://devszero.com/products/status-pages/</link>
       <pubDate>Sun, 06 Sep 2020 09:58:34 +0300</pubDate>
       
-      <guid>https://devszero.com/usecases/saas-automation/</guid>
+      <guid>https://devszero.com/products/status-pages/</guid>
       <description></description>
     </item>
     
