@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Products on DevsZero - Security simplified for startups.</title>
-    <link>https://devszero.com/products/</link>
-    <description>Recent content in Products on DevsZero - Security simplified for startups.</description>
+    <title>Products on ArgoScan - Security simplified for startups.</title>
+    <link>https://argoscan.com/products/</link>
+    <description>Recent content in Products on ArgoScan - Security simplified for startups.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 06 Sep 2020 09:58:34 +0300</lastBuildDate>
     
-	<atom:link href="https://devszero.com/products/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://argoscan.com/products/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Security Status Pages</title>
-      <link>https://devszero.com/products/status-pages/</link>
+      <link>https://argoscan.com/products/status-pages/</link>
       <pubDate>Sun, 06 Sep 2020 09:58:34 +0300</pubDate>
       
-      <guid>https://devszero.com/products/status-pages/</guid>
+      <guid>https://argoscan.com/products/status-pages/</guid>
       <description></description>
     </item>
     

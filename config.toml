@@ -1,6 +1,6 @@
-baseURL = "https://devszero.com/"
+baseURL = "https://argoscan.com/"
 languageCode = "en-us"
-title = "DevsZero - Security simplified for startups."
+title = "ArgoScan - Security simplified for startups."
 theme = "slate"
 publishDir = "docs"
 

@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blogs on DevsZero - Security simplified for startups.</title>
-    <link>https://devszero.com/blog/</link>
-    <description>Recent content in Blogs on DevsZero - Security simplified for startups.</description>
+    <title>Blogs on ArgoScan - Security simplified for startups.</title>
+    <link>https://argoscan.com/blog/</link>
+    <description>Recent content in Blogs on ArgoScan - Security simplified for startups.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 06 Sep 2020 08:45:42 +0300</lastBuildDate>
     
-	<atom:link href="https://devszero.com/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://argoscan.com/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Why DEVSZERO</title>
-      <link>https://devszero.com/blog/why-devzero/</link>
+      <link>https://argoscan.com/blog/why-devzero/</link>
       <pubDate>Sun, 06 Sep 2020 08:45:42 +0300</pubDate>
       
-      <guid>https://devszero.com/blog/why-devzero/</guid>
+      <guid>https://argoscan.com/blog/why-devzero/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
 incididunt ut labore et dolore magna aliqua. Pellentesque eu tincidunt tortor
 aliquam nulla facilisi cras fermentum odio. A erat nam at lectus urna duis.
