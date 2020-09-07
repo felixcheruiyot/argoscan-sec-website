@@ -1,6 +1,6 @@
 baseURL = "https://argoscan.com/"
 languageCode = "en-us"
-title = "ArgoScan - Security simplified for startups."
+title = "ArgoScan - Security compliance simplified for small businesses."
 theme = "slate"
 publishDir = "docs"
 
