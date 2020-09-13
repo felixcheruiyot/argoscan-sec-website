@@ -6,22 +6,22 @@ publishDir = "docs"
 
 [menu]
   #[[menu.main]]
-  #  name = "Products"
-  #  url = "/products/"
+  #  name = "Product"
+  #  url = "/product/"
   #  weight = 1
   #[[menu.main]]
   #  name = "Pricing"
   #  url = "/pricing/"
-  #  weight = 2
+  #  weight = 3
   #[[menu.main]]
   #  name = "About"
   #  url = "/about/"
-  #  weight = 3
-  #[[menu.main]]
-  #  name = "Demo"
-  #  url = "https://felixcheruiyot.typeform.com/to/G6GHSgFb"
   #  weight = 4
   [[menu.main]]
-    name = "Get beta access"
-    url = "https://felixcheruiyot.typeform.com/to/G6GHSgFb"
-    weight = 5
+    name = "Log in"
+    url = "https://app.argoscan.com"
+    weight = 6
+  [[menu.main]]
+    name = "Create Account"
+    url = "https://app.argoscan.com/signup/"
+    weight = 7
