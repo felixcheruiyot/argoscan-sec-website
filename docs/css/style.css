@@ -32,14 +32,14 @@ a {
 .btn-primary,
 .btn-primary:hover,
 .btn-primary:focus {
-    background: #4937E8 !important;
-    border-color: #4937E8 !important;
+    background: #007BFF !important;
+    border-color: #007BFF !important;
     font-weight: 500;
     outline: none !important;
 }
 
 .bg-primary {
-    background: #4937E8 !important;
+    background: #007BFF !important;
     color: #fff;
 }
 
@@ -90,4 +90,8 @@ h4 {
     display: flex;
     flex-direction: column;
     justify-content: center;
+}
+
+.footer .sec-badge {
+    width: 144px;
 }

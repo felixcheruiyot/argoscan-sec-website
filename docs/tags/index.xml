@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on ArgoScan - Security compliance simplified for small businesses.</title>
-    <link>https://argoscan.com/tags/</link>
-    <description>Recent content in Tags on ArgoScan - Security compliance simplified for small businesses.</description>
+    <title>Tags on Safeced - Security compliance simplified for small businesses.</title>
+    <link>https://safeced.com/tags/</link>
+    <description>Recent content in Tags on Safeced - Security compliance simplified for small businesses.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://argoscan.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://safeced.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
