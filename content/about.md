@@ -1,6 +1,6 @@
 ---
 title: "About"
-draft: false
+draft: true
 ---
 
 HashiCorp was founded by Mitchell Hashimoto and Armon Dadgar in 2012 with the goal of revolutionizing datacenter management: application development, delivery, and maintenance.

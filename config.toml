@@ -1,6 +1,6 @@
-baseURL = "https://argoscan.com/"
+baseURL = "https://safeced.com/"
 languageCode = "en-us"
-title = "ArgoScan - Security compliance simplified for small businesses."
+title = "Safeced - Security compliance simplified for small businesses."
 theme = "slate"
 publishDir = "docs"
 
@@ -19,9 +19,9 @@ publishDir = "docs"
   #  weight = 4
   [[menu.main]]
     name = "Log in"
-    url = "https://app.argoscan.com"
+    url = "https://app.safeced.com"
     weight = 6
   [[menu.main]]
     name = "Create Account"
-    url = "https://app.argoscan.com/signup/"
+    url = "https://app.safeced.com/signup/"
     weight = 7
