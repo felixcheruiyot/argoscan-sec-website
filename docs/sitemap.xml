@@ -1,20 +1,23 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
-    <loc>https://safeced.com/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+    <loc>https://safeced.com/products/</loc>
+    <lastmod>2020-09-06T09:58:34+03:00</lastmod>
+  </url><url>
     <loc>https://safeced.com/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+    <lastmod>2020-09-06T09:58:34+03:00</lastmod>
+  </url><url>
+    <loc>https://safeced.com/products/status-pages/</loc>
+    <lastmod>2020-09-06T09:58:34+03:00</lastmod>
+  </url><url>
+    <loc>https://safeced.com/get-started/</loc>
+    <lastmod>2020-09-06T09:57:48+03:00</lastmod>
+  </url><url>
+    <loc>https://safeced.com/about/</loc>
+  </url><url>
+    <loc>https://safeced.com/categories/</loc>
+  </url><url>
     <loc>https://safeced.com/tags/</loc>
-    <priority>0</priority>
   </url>
-  
 </urlset>

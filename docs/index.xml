@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Safeced - Security compliance simplified for small businesses.</title>
@@ -6,9 +6,35 @@
     <description>Recent content on Safeced - Security compliance simplified for small businesses.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Sun, 06 Sep 2020 09:58:34 +0300</lastBuildDate><atom:link href="https://safeced.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Security Status Pages</title>
+      <link>https://safeced.com/products/status-pages/</link>
+      <pubDate>Sun, 06 Sep 2020 09:58:34 +0300</pubDate>
+      
+      <guid>https://safeced.com/products/status-pages/</guid>
+      <description></description>
+    </item>
     
-	<atom:link href="https://safeced.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Get Started</title>
+      <link>https://safeced.com/get-started/</link>
+      <pubDate>Sun, 06 Sep 2020 09:57:48 +0300</pubDate>
+      
+      <guid>https://safeced.com/get-started/</guid>
+      <description></description>
+    </item>
     
+    <item>
+      <title>About</title>
+      <link>https://safeced.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://safeced.com/about/</guid>
+      <description>HashiCorp was founded by Mitchell Hashimoto and Armon Dadgar in 2012 with the goal of revolutionizing datacenter management: application development, delivery, and maintenance.
+The datacenter of today is very different than the datacenter of yesterday, and we think the datacenter of tomorrow is just around the corner. We&amp;rsquo;re writing software to take you all the way from yesterday to today, and then safely to tomorrow and beyond.
+Physical, virtual, containers. Private cloud, public cloud, hybrid cloud.</description>
+    </item>
     
   </channel>
 </rss>
